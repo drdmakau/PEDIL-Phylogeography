@@ -81,4 +81,10 @@ The **Population & Epidemiology Data Innovation Lab (PEDIL)**, based at the Univ
 
 A version of this repository will be archived with a DOI on [Zenodo](https://zenodo.org/) upon manuscript publication.
 
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE).  
+Attribution is encouraged: If you use or adapt these materials, please credit the **Population and Epidemiology Data Innovation Lab (PEDIL), University of Tennessee**.
 
