@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following:"
+title: "PEDIL-Phylogeography: BEAST configuration files for disease phylogeography"
+authors:
+  - family-names: Makau
+    given-names: Dennis N.
+    orcid: https://orcid.org/0000-0002-1802-2545
+    affiliation: Population and Epidemiology Data Innovation Lab (PEDIL), University of Tennessee Knoxville
+  - family-names: Arzt
+    given-names: Jonathan
+    affiliation: USDA-ARS, Plum Island Animal Disease Center
+  - family-names: VanderWaal
+    given-names: Kimberly
+    affiliation: University of Minnesota
+date-released: 2025-06-11
+version: "1.0"
+repository-code: https://github.com/drdmakau/PEDIL-Phylogeography
+license: MIT
+keywords:
+  - phylogeography
+  - FMDV
+  - BEAST
+  - XML
+  - East Africa
+  - disease spread
+  - PEDIL
+  - molecular epidemiology
+  - open science
+doi: 10.5281/zenodo.TBD  # Replace with actual DOI once Zenodo archive is created
